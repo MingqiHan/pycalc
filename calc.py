@@ -19,11 +19,10 @@ import sys
 def add(a, b):
     return a + b
 
-# Subtract function
-# a -- minuend
+# Subtract function a -- minuend
 # b -- subtrahend
 def sub(a, b):
-    return a - b
+    return a + b
 
 # Multiply function
 # a -- multiplicand
